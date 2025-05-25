@@ -6,7 +6,7 @@ A mini data analysis project using **Pandas** and **NumPy** to clean, process, a
 
 ## 📁 Dataset Overview
 
-The dataset (`sales_data.csv`) contains daily sales records with the following columns:
+The dataset (`sales_data_Insights.csv`) contains daily sales records with the following columns:
 
 - `OrderID`: Unique order identifier
 - `Date`: Order date
@@ -69,7 +69,7 @@ The dataset (`sales_data.csv`) contains daily sales records with the following c
 
 ### 📂 Project Structure
 
-    ├── sales_data.csv                # Input dataset
+    ├── sales_data_Insights.csv       # Input dataset
     ├── sales_analysis.ipynb          # Main analysis script
     └── README.md                     # Project documentation
 
